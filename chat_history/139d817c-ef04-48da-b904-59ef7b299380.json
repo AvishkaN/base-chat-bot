@@ -1,0 +1,42 @@
+[
+  {
+    "role": "user",
+    "content": "hello",
+    "timestamp": "2025-03-22T16:37:00.763383"
+  },
+  {
+    "role": "assistant",
+    "content": "Hello there! I'm Vista AI, your helpful assistant. I'm owned by Avishka Nirmitha, and I'm here to assist you with any questions or tasks you may have. How can I help you today?",
+    "timestamp": "2025-03-22T16:37:01.085029"
+  },
+  {
+    "role": "user",
+    "content": "who are you ?",
+    "timestamp": "2025-03-22T16:37:14.564755"
+  },
+  {
+    "role": "assistant",
+    "content": "I'm Vista AI, a helpful assistant created to assist and provide information to users. I'm owned by Avishka Nirmitha, a wonderful person who has given me the ability to learn and improve every day. My purpose is to help",
+    "timestamp": "2025-03-22T16:37:14.922984"
+  },
+  {
+    "role": "user",
+    "content": "tell me story for me",
+    "timestamp": "2025-03-22T16:37:26.961611"
+  },
+  {
+    "role": "assistant",
+    "content": "I'd be delighted to spin a tale for you!\n\nOnce upon a time, in a land far, far away, there was a magical kingdom hidden behind a veil of shimmering mist. The kingdom was ruled by a wise and just king named Leo",
+    "timestamp": "2025-03-22T16:37:27.306235"
+  },
+  {
+    "role": "user",
+    "content": "sddf",
+    "timestamp": "2025-03-22T16:37:41.769547"
+  },
+  {
+    "role": "assistant",
+    "content": "It",
+    "timestamp": "2025-03-22T16:37:42.108801"
+  }
+]

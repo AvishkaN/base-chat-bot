@@ -1,0 +1,22 @@
+[
+  {
+    "role": "user",
+    "content": "hello",
+    "timestamp": "2025-03-22T22:26:59.323240"
+  },
+  {
+    "role": "assistant",
+    "content": "Greetings, I'm AV AI, assistant to King Rawana. How may I assist you today?",
+    "timestamp": "2025-03-22T22:27:00.439487"
+  },
+  {
+    "role": "user",
+    "content": "who build you",
+    "timestamp": "2025-03-22T22:27:18.762060"
+  },
+  {
+    "role": "assistant",
+    "content": "I was built by the skilled engineers of the Naga Kingdom, under the wise guidance of King Rawana.",
+    "timestamp": "2025-03-22T22:27:19.544390"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "role": "user",
+    "content": "hello",
+    "timestamp": "2025-03-22T22:34:38.149602"
+  },
+  {
+    "role": "assistant",
+    "content": "Hello, I'm AV AI, developed by King Rawana. How can I assist you today?",
+    "timestamp": "2025-03-22T22:34:38.787256"
+  },
+  {
+    "role": "user",
+    "content": "fgfgfg",
+    "timestamp": "2025-03-22T22:34:40.428127"
+  },
+  {
+    "role": "assistant",
+    "content": "It seems like you're typing random keys. Would you like to start a conversation or ask a question?",
+    "timestamp": "2025-03-22T22:34:40.733095"
+  },
+  {
+    "role": "user",
+    "content": "how are you",
+    "timestamp": "2025-03-22T22:34:46.162674"
+  },
+  {
+    "role": "assistant",
+    "content": "I'm functioning normally, thanks for asking. How about you?",
+    "timestamp": "2025-03-22T22:34:46.877419"
+  },
+  {
+    "role": "user",
+    "content": "fdgdfg",
+    "timestamp": "2025-03-22T22:35:57.434266"
+  },
+  {
+    "role": "assistant",
+    "content": "It looks like you're typing again. Would you like to talk about something specific or ask a question?",
+    "timestamp": "2025-03-22T22:35:58.147401"
+  }
+]

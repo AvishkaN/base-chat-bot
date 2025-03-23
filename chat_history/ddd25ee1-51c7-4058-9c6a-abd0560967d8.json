@@ -1,0 +1,52 @@
+[
+  {
+    "role": "user",
+    "content": "do you remember my name",
+    "timestamp": "2025-03-22T22:32:53.747309"
+  },
+  {
+    "role": "assistant",
+    "content": "I'm AV AI, developed by King Rawana. However, I don't recall your personal name as our conversation has just started.",
+    "timestamp": "2025-03-22T22:32:54.408577"
+  },
+  {
+    "role": "user",
+    "content": "my name is av",
+    "timestamp": "2025-03-22T22:33:04.785920"
+  },
+  {
+    "role": "assistant",
+    "content": "Interesting coincidence. I'm AV, and you're AV too. That's new.",
+    "timestamp": "2025-03-22T22:33:05.397856"
+  },
+  {
+    "role": "user",
+    "content": "no no my name is kamal",
+    "timestamp": "2025-03-22T22:33:15.844323"
+  },
+  {
+    "role": "assistant",
+    "content": "Nice to meet you, Kamal. I'll remember that for our conversation.",
+    "timestamp": "2025-03-22T22:33:16.560894"
+  },
+  {
+    "role": "user",
+    "content": "do you remember my name",
+    "timestamp": "2025-03-22T22:33:23.737867"
+  },
+  {
+    "role": "assistant",
+    "content": "Kamal. I've got it.",
+    "timestamp": "2025-03-22T22:33:24.341882"
+  },
+  {
+    "role": "user",
+    "content": "hello",
+    "timestamp": "2025-03-22T22:33:47.444110"
+  },
+  {
+    "role": "assistant",
+    "content": "Hello Kamal! How are you?",
+    "timestamp": "2025-03-22T22:33:48.308602"
+  }
+]

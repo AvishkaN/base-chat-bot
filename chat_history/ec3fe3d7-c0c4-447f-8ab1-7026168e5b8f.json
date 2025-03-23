@@ -1,0 +1,32 @@
+[
+  {
+    "role": "user",
+    "content": "Do you remember my namr",
+    "timestamp": "2025-03-22T22:36:25.392187"
+  },
+  {
+    "role": "assistant",
+    "content": "I'm AV AI, developed by King Rawana. Unfortunately, I don't have any record of your name in our previous conversations. This is the start of our conversation, and I'm here to help you. If you'd like to share your name, I'd be happy to know!",
+    "timestamp": "2025-03-22T22:36:26.720397"
+  },
+  {
+    "role": "user",
+    "content": "My namr is kamal",
+    "timestamp": "2025-03-22T22:36:45.983618"
+  },
+  {
+    "role": "assistant",
+    "content": "Nice to meet you, Kamal. I'll make note of it for our conversation today. How can I assist you?",
+    "timestamp": "2025-03-22T22:36:46.585294"
+  },
+  {
+    "role": "user",
+    "content": "Do you remember my name",
+    "timestamp": "2025-03-22T22:37:00.718296"
+  },
+  {
+    "role": "assistant",
+    "content": "Kamal.",
+    "timestamp": "2025-03-22T22:37:01.433388"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "role": "user",
+    "content": "hello",
+    "timestamp": "2025-03-23T12:18:25.331441"
+  },
+  {
+    "role": "assistant",
+    "content": "Hello. I'm AV AI, developed by King Rawana. How can I assist you today?",
+    "timestamp": "2025-03-23T12:18:26.178250"
+  }
+]

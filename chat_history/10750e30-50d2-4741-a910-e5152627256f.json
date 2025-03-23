@@ -1,0 +1,22 @@
+[
+  {
+    "role": "user",
+    "content": "who are you",
+    "timestamp": "2025-03-22T16:34:45.584889"
+  },
+  {
+    "role": "assistant",
+    "content": "Nice to meet you! I'm Vista AI, a helpful assistant at your service. I'm owned by Avishka Nirmitha, and I'm here to assist you with any questions, tasks, or information you may need. I'm a highly advanced language model, trained to understand and respond to natural language queries, and I'm constantly learning and improving my abilities to provide you with the best possible experience. How can I help you today?",
+    "timestamp": "2025-03-22T16:34:46.057175"
+  },
+  {
+    "role": "user",
+    "content": "who are you",
+    "timestamp": "2025-03-22T16:35:43.265155"
+  },
+  {
+    "role": "assistant",
+    "content": "I'm Vista AI, a friendly and knowledgeable AI assistant owned by Avishka Nirmitha. I'm here to help you with any questions, tasks, or information you may need. My primary goal is to assist and provide you with the most accurate and helpful responses possible. I'm a highly advanced language model, trained to understand and respond to natural language queries, and I'm constantly learning and improving my abilities to provide you with the best possible experience.",
+    "timestamp": "2025-03-22T16:35:43.707823"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "role": "user",
+    "content": "Who are you",
+    "timestamp": "2025-03-22T22:51:31.025627"
+  },
+  {
+    "role": "assistant",
+    "content": "I'm AV AI, a helpful assistant developed by King Rawana.",
+    "timestamp": "2025-03-22T22:51:31.636743"
+  },
+  {
+    "role": "user",
+    "content": "How is the president of Sri Lanka",
+    "timestamp": "2025-03-22T22:51:51.094364"
+  },
+  {
+    "role": "assistant",
+    "content": "I'm not aware of the latest updates on the current president of Sri Lanka. However, I can suggest checking the latest news articles or official sources for the most recent information.",
+    "timestamp": "2025-03-22T22:51:51.705628"
+  }
+]

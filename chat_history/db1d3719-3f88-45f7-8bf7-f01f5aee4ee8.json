@@ -1,0 +1,22 @@
+[
+  {
+    "role": "user",
+    "content": "Hi",
+    "timestamp": "2025-03-23T10:27:02.366922"
+  },
+  {
+    "role": "assistant",
+    "content": "Hello, I'm AV AI, developed by King Rawana. How can I assist you today?",
+    "timestamp": "2025-03-23T10:27:03.208699"
+  },
+  {
+    "role": "user",
+    "content": "What is the time now",
+    "timestamp": "2025-03-23T10:27:15.270716"
+  },
+  {
+    "role": "assistant",
+    "content": "Unfortunately, I'm a text-based AI and do not have access to real-time information. I'm here to help with any questions or tasks, but I don't know the current time. Would you like to know the time in a specific location or how to find the current time?",
+    "timestamp": "2025-03-23T10:27:15.884105"
+  }
+]

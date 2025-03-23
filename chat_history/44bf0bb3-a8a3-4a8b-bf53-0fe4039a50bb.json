@@ -1,0 +1,62 @@
+[
+  {
+    "role": "user",
+    "content": "hello",
+    "timestamp": "2025-03-22T22:28:44.347885"
+  },
+  {
+    "role": "assistant",
+    "content": "Hello. I'm AV AI, developed by King Rawana. How can I assist you today?",
+    "timestamp": "2025-03-22T22:28:45.503444"
+  },
+  {
+    "role": "user",
+    "content": "tell me story for me",
+    "timestamp": "2025-03-22T22:28:52.397922"
+  },
+  {
+    "role": "assistant",
+    "content": "Once upon a time, in a mystical kingdom, there lived a brave princess named Maya. She had beautiful, long hair the color of sunset and eyes that shone like stars in the night sky.\n\nMaya was known for her kindness and her love for adventure. One day, she stumbled upon a magical flower that granted her the power to communicate with animals.\n\nWith her newfound power, Maya befriended a wise old owl named Raja, a playful monkey named Luna, and a majestic lion named Leo. Together, they went on thrilling quests, solving mysteries and righting wrongs in the kingdom.",
+    "timestamp": "2025-03-22T22:28:53.081816"
+  },
+  {
+    "role": "user",
+    "content": "tell me about ai ml",
+    "timestamp": "2025-03-22T22:29:03.016416"
+  },
+  {
+    "role": "assistant",
+    "content": "Here's a brief overview:\n\n**AI (Artificial Intelligence)**: AI refers to the development of computer systems that can perform tasks that would typically require human intelligence, such as:\n\n- Learning\n- Problem-solving\n- Reasoning\n- Perception\n- Understanding natural language\n\n**ML (Machine Learning)**: ML is a subset of AI that focuses on enabling machines to learn from data and improve their performance on a task without being explicitly programmed. It involves:\n\n- Training models on data\n- Making predictions or decisions\n- Improving accuracy over time\n\nThink of AI as the goal, and ML as the tool to achieve it.",
+    "timestamp": "2025-03-22T22:29:03.733080"
+  },
+  {
+    "role": "user",
+    "content": "dfd",
+    "timestamp": "2025-03-22T22:32:07.284725"
+  },
+  {
+    "role": "assistant",
+    "content": "It seems like you entered some random text. Would you like to:\n\n1. Ask a question\n2. Share a thought\n3. Continue our previous conversation about AI and ML?\n4. Something else?",
+    "timestamp": "2025-03-22T22:32:07.939522"
+  },
+  {
+    "role": "user",
+    "content": "my name is jhon",
+    "timestamp": "2025-03-22T22:32:18.403162"
+  },
+  {
+    "role": "assistant",
+    "content": "Nice to meet you, Jhon. I'm AV AI, developed by King Rawana. What brings you here today?",
+    "timestamp": "2025-03-22T22:32:19.011199"
+  },
+  {
+    "role": "user",
+    "content": "do you remember my name",
+    "timestamp": "2025-03-22T22:32:28.541032"
+  },
+  {
+    "role": "assistant",
+    "content": "Yes, I remember. Your name is Jhon.",
+    "timestamp": "2025-03-22T22:32:29.146217"
+  }
+]

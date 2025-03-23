@@ -1,0 +1,32 @@
+[
+  {
+    "role": "user",
+    "content": "hello",
+    "timestamp": "2025-03-23T09:57:46.501650"
+  },
+  {
+    "role": "assistant",
+    "content": "Hello! I'm AV, AI assistant developed by King Rawana. How can I assist you today?",
+    "timestamp": "2025-03-23T09:57:47.522030"
+  },
+  {
+    "role": "user",
+    "content": "hello",
+    "timestamp": "2025-03-23T09:58:07.080805"
+  },
+  {
+    "role": "assistant",
+    "content": "It seems like you said hello again. Is there something I can help you with?",
+    "timestamp": "2025-03-23T09:58:07.695308"
+  },
+  {
+    "role": "user",
+    "content": "who are you",
+    "timestamp": "2025-03-23T09:58:13.839800"
+  },
+  {
+    "role": "assistant",
+    "content": "I'm AV, a helpful AI assistant developed by King Rawana.",
+    "timestamp": "2025-03-23T09:58:14.556240"
+  }
+]

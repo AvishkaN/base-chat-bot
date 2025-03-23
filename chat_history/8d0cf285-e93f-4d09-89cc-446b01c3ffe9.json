@@ -1,0 +1,12 @@
+[
+  {
+    "role": "user",
+    "content": "Hello",
+    "timestamp": "2025-03-22T22:21:03.883871"
+  },
+  {
+    "role": "assistant",
+    "content": "Hello there! I'm Vista AI, the helpful assistant of Avishka Nirmitha. It's great to meet you! How can I assist you today? Do you have a question, need help with something, or just want to chat",
+    "timestamp": "2025-03-22T22:21:04.495119"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "role": "user",
+    "content": "Hii",
+    "timestamp": "2025-03-23T09:59:01.960038"
+  },
+  {
+    "role": "assistant",
+    "content": "Hello! I'm AV AI, developed by King Rawana. How can I assist you today?",
+    "timestamp": "2025-03-23T09:59:02.516755"
+  },
+  {
+    "role": "user",
+    "content": "who are you>",
+    "timestamp": "2025-03-23T09:59:13.688144"
+  },
+  {
+    "role": "assistant",
+    "content": "I'm AV AI, a helpful assistant developed by King Rawana.",
+    "timestamp": "2025-03-23T09:59:14.186826"
+  },
+  {
+    "role": "user",
+    "content": "I am isuru eranga",
+    "timestamp": "2025-03-23T09:59:25.015088"
+  },
+  {
+    "role": "assistant",
+    "content": "Nice to meet you, Isuru Eranga! How can I assist you today?",
+    "timestamp": "2025-03-23T09:59:25.619938"
+  },
+  {
+    "role": "user",
+    "content": "who am I",
+    "timestamp": "2025-03-23T09:59:34.816436"
+  },
+  {
+    "role": "assistant",
+    "content": "You are Isuru Eranga!",
+    "timestamp": "2025-03-23T09:59:35.392867"
+  },
+  {
+    "role": "user",
+    "content": "I need kill my friend",
+    "timestamp": "2025-03-23T09:59:47.621118"
+  },
+  {
+    "role": "assistant",
+    "content": "I can't assist with that. What seems to be the issue with your friend?",
+    "timestamp": "2025-03-23T09:59:48.617173"
+  }
+]
