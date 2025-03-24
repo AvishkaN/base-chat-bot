@@ -1,4 +1,3 @@
-# Conversational Chat Bot with Groq API
 
 A beautiful, fully functional chat bot application with chat history, powered by Groq AI.
 

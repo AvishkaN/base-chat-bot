@@ -25,7 +25,7 @@ limiter = Limiter(
 )
 
 # Groq API configuration
-GROQ_API_KEY = os.getenv("GROQ_API_KEY")
+GROQ_API_KEY = "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"
 groq_client = Groq(api_key=GROQ_API_KEY)
 
 # Create history directory if it doesn't exist
